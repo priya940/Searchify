@@ -4,6 +4,6 @@
 
 @layer base{
     body {
-        background:conic-gradient(at right center, rgb(199, 210, 254), rgb(71, 85, 105), rgb(199, 210, 254));
+        background:linear-gradient(to right, rgb(156, 163, 175), rgb(75, 85, 99), rgb(30, 64, 175));
     }
 }
