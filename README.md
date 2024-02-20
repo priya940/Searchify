@@ -1,8 +1,15 @@
-# React + Vite
+# Searchify
+Searchify is a job searching web application for job seekers showcasing the use of technologies like ReactJS. In this project, I have been able to use different features together and gain a greater understanding of them, crafted a stunning user interface using Tailwind CSS.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Tech Stack
+Front-End : ReactJS, Vite, Firebase Firestore, TailwindCSS
 
-Currently, two official plugins are available:
+# Features
+* Responsive Web Application
+* Search functionality
+* Data storage in Firebase Firestore
+* Tailwind CSS for CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+
