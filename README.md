@@ -13,7 +13,7 @@ Front-End : ReactJS, Vite, Firebase Firestore, TailwindCSS
 # Links
 Deploy Link : https://searchify-priya.netlify.app/
 
-Project Link : 
+Project Link : https://github.com/priya940/Searchify
 
 
 
