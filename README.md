@@ -10,6 +10,11 @@ Front-End : ReactJS, Vite, Firebase Firestore, TailwindCSS
 * Data storage in Firebase Firestore
 * Tailwind CSS for CSS
 
+# Links
+Deploy Link : https://searchify-priya.netlify.app/
+
+Project Link : 
+
 
 
 
